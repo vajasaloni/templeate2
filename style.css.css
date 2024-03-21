@@ -1,0 +1,11 @@
+.A
+{
+	position: absolute;
+	background-color:#ff8800fb;
+	color: white;
+	padding: 30px;
+	letter-spacing: 7px;
+	top:60px;
+	height: 500px;
+	width: 300px;
+}
